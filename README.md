@@ -1,10 +1,15 @@
 # NoMonth
 
-DRAFT of the NoMonth manifesto.
+DRAFT of the `#NoMonth` manifesto.
 
---- Months are crap. They are a bad unit of time, as they have a very variable length (30, 31, 28, 27?). They don't align to the astrological phenomenon they are supossed to (lunar phases [and thus, the tides?]).
+---
+
+Months are crap. They are a bad unit of time, as they have a very variable length (30, 31, 28, 27?). They don't align to the astrological phenomenon they are supossed to (lunar phases [and thus, the tides?]).
+
+[![Youtube Video: A Rant About Calendars, by Xidnaf](https://img.youtube.com/vi/QezTrYHsr_s/0.jpg)](https://www.youtube.com/watch?v=QezTrYHsr_s)
 
 [...]
+
 
 # Alternatives
 
@@ -16,9 +21,11 @@ On ISO 8601 formats: `YYYY-Www` for weeks, and `YYYY-Www-D` for days.
 
 ## Addressing days
 
-## Ordinal date
+### Ordinal date
 
-Consistis of a year and a day of the year. On ISO 8601: `YYYY-DDD`.
+Consistis of a year and a day of the year.
+
+On ISO 8601 format: `YYYY-DDD`.
 
 
 # Implemengting

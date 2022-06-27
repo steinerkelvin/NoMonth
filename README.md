@@ -4,7 +4,7 @@ DRAFT of the `#NoMonth` manifesto.
 
 ---
 
-Months are crap. They are a bad unit of time, as they have a very variable length (30, 31, 28, 29?). They don't align to the astrological phenomenon they are supossed to (lunar phases [and thus, the tides?]).
+Months are crap. They are a bad unit of time, as they have a very variable length (30, 31, 28, 29?). They don't align to the astronomical phenomenon they are supossed to (lunar phases [and thus, the tides?]).
 
 [![Youtube Video: A Rant About Calendars, by Xidnaf](https://img.youtube.com/vi/QezTrYHsr_s/0.jpg)](https://www.youtube.com/watch?v=QezTrYHsr_s)
 

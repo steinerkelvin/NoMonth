@@ -23,12 +23,12 @@ On ISO 8601 formats: `YYYY-Www` for weeks, and `YYYY-Www-D` for days.
 
 ### Ordinal date
 
-Consistis of a year and a day of the year.
+Consists of a year and a day of the year.
 
 On ISO 8601 format: `YYYY-DDD`.
 
 
-# Implemengting
+# Implementing
 
 ## On *nix
 

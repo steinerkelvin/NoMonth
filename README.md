@@ -33,3 +33,8 @@ On ISO 8601 format: `YYYY-DDD`.
 ## On *nix
 
 ## On Android
+
+- **[Today - Day of Year counter][app-today]**: provides a widget that shows current day of the year on home screen.
+
+
+[app-today]: https://play.google.com/store/apps/details?id=by.liauko.siarhei.app.today
